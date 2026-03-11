@@ -39,8 +39,6 @@
 
 <footer>
 
-Feito com ❤️ no Discover
-
 </footer>
 
 </div>
@@ -48,4 +46,5 @@ Feito com ❤️ no Discover
 <script src="script.js"></script>
 
 </body>
+
 </html>
